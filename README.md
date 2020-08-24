@@ -2,7 +2,7 @@
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-Hosted on: http://127.0.0.1:5500/WebVisualizations/landing%20page.html
+Solution Hosted on: https://jeffhoffmanmba.github.io/Web-Design-Challenge/WebVisualizations/max.html
 
 For this homework we'll be creating a visualization dashboard website using visualizations we've created in the past. Specifically, we'll be plotting [weather data](Resources/cities.csv).
 
