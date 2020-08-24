@@ -1,0 +1,15 @@
+#drop_down_menu {
+    visibility: hidden;
+}
+
+@media (max-width: 800px){
+
+    #drop_down_menu {
+        visibility: visible;
+}
+
+    .navbar ul {
+        visibility: hidden;
+}
+
+}
